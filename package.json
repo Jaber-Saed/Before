@@ -14,5 +14,8 @@
     "webpack": "^5.88.2",
     "webpack-cli": "4.5.0",
     "webpack-dev-server": "^3.11.3"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
   }
 }
