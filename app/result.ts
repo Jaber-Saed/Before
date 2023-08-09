@@ -2,5 +2,6 @@ interface Result {
     playerNme: string;
     score: number;
     problemCount: number;
-    factor: number;
-}
+    factor: number; 
+    scunde : NumberConstructor;
+} 
